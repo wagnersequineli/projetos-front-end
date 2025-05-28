@@ -3,6 +3,9 @@ h1, h2{
     padding: 10px;
     color: #fff;
 }
+h1{
+    font-size: 30px;
+}
 body{
     max-width: 600px;
     margin: auto;
@@ -15,6 +18,7 @@ h1{
 }
 .centralizar{
     text-align: center;
+    margin-top: 20px;
 }
 ol, ul{
     line-height: 40px;
@@ -36,3 +40,13 @@ footer{
     margin-top: 30px;
     text-align: center;
 }
+img{
+    margin-top: 20px;
+}
+body{
+    background: linear-gradient(to bottom, rgb(228, 219, 207), rgba(255, 228, 195, 0.925));
+}
+
+
+
+  
